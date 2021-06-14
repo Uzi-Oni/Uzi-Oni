@@ -1,6 +1,6 @@
 
 ### Holas 👋🏽, Soy Uziel!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9006" alt="sanket9006" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9006" alt="Uzi-Oni" /> </p> 
 
 
 <br/>
