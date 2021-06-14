@@ -5,7 +5,7 @@
 
 <br/>
 
-Hi, I'm Uziel Alejandro, a college student 🚀 from Zacatecas, Mexico, currently, I'm a  Certified Fixer 🙍🏽‍♂️ [iFixIt](https://es.ifixit.com/) and a Student 👨🏽‍💻 [UzielAMS](https://www.zacatecas.ipn.mx/). Beside's Computers, I play music. 
+Hi, I'm Uziel Alejandro, a college student 🚀 from Zacatecas, Mexico, currently, I'm a  Certified Fixer 🙍🏽‍♂️ [iFixit](https://es.ifixit.com/) and a Student 👨🏽‍💻 [UzielAMS](https://www.zacatecas.ipn.mx/). Beside's Computers, I play music. 
 
 ####      ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Augmented%20Reality-%7C-blue) ![](https://img.shields.io/badge/SEO-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
   
