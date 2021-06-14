@@ -27,4 +27,4 @@ Hi, I'm Uziel Alejandro, a college student 🚀 from Zacatecas, Mexico, currentl
 ![Uzi GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzi-Oni&count_private=true)
 
 
-![Dino](https://media1.tenor.com/images/fc4d522bb43841d26a294f83c557e23f/tenor.gif?itemid=5414478)
+![Dino]<code><img width="600" src="https://tenor.com/es/ver/drift-initiald-japan-gif-5414478"></code>
