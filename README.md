@@ -1,7 +1,5 @@
-[![Facebook Badge](https://img.shields.io/badge/-@____sanket____patil____-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004711200725&sk=about)](https://www.facebook.com/UziOni/)
- 
 
-### Hey 👋🏽, I'm [Uziel!]
+### Holas 👋🏽, Soy Uziel!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9006" alt="sanket9006" /> </p> 
 
 
@@ -26,6 +24,6 @@ Hi, I'm Uziel Alejandro, a college student 🚀 from Zacatecas, Mexico, currentl
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Uzi GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzi-Oni)](https://github.com/anuraghazra/github-readme-stats)
+![Uzi GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzi-Oni)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
